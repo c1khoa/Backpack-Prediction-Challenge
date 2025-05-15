@@ -102,7 +102,7 @@ Backpack_Prediction_Challenge/
 <pre> <code> pip install -r requirements.txt</code> </pre>
 - Hoặc cài đặt môi trường `ml-env` với Conda
 <pre> <code> conda env create -f environment.yml
- conda activate ml-env</code> </pre>
+  conda activate ml-env</code> </pre>
 
 ### Cài biến môi trường `MODEL_DIR` (link dẫn đến folder project)
 
